@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">חיים מיטיבים</string>
+    <string name="accessibility_service_label">חיים מיטיבים: חסימה</string>
+    <string name="accessibility_service_description">מזהה איזו אפליקציה פתוחה כדי לאכוף מכסות, את מחסום 60 השניות, את נעילת הלילה ואת חסימת Shorts. המידע אינו נשמר ואינו נשלח לשום מקום.</string>
+    <string name="admin_description">מונע את הסרת האפליקציה בלי קוד PIN.</string>
+    <string name="admin_disable_warning">ביטול ההגנה מאפשר להסיר את האפליקציה. האם זה באמת מה שאתה רוצה?</string>
+</resources>
